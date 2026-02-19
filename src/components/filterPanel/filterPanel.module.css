@@ -1,0 +1,14 @@
+.filterPanel {
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    margin-bottom: 10px;
+}
+
+.dropdown {
+    width: 150px;
+    font-size: 16px;
+    border-radius: 10px;
+    border: 1px solid white;
+    text-align: center;
+}

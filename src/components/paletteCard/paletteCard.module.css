@@ -1,0 +1,46 @@
+.PaletteCard {
+  display: grid;
+  gap: 10px;
+  padding: 12px;
+  border: 1px solid #e5e7eb;
+  border-radius: 12px;
+  text-decoration: none;
+  color: inherit;
+  transition: transform .08s ease, box-shadow .08s ease;
+}
+.PaletteCard:hover { 
+  transform: translateY(-2px); box-shadow: 0 6px 20px rgba(0,0,0,.06); 
+}
+
+.palettename { 
+  font-weight: 600; font-size: 15px; 
+}
+
+.swatches {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  gap: 6px;
+}
+
+.swatch {
+  position: relative;
+  aspect-ratio: 4 / 3;
+  border-radius: 8px;
+  overflow: hidden;
+  border: 1px solid rgba(0,0,0,.06);
+  width: 100px;
+}
+
+.hex {
+  position: absolute;
+  left: 6px; bottom: 6px;
+  font-size: 11px;
+  font-family: ui-monospace, SFMono-Regular, Menlo, monospace;
+  padding: 2px 6px;
+  border-radius: 999px;
+  background: rgba(255,255,255,.8); 
+  backdrop-filter: blur(2px);
+  color: black;
+}
+
+

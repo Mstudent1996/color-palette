@@ -1,0 +1,202 @@
+[
+    {
+        "id": 0,
+        "name": "Mint Meadow",
+        "tags": ["fresh", "calm", "natural", "clean", "uplifting", "soft", "balanced"],
+        "hues": ["light blue", "gray", "green", "light green", "light green"],
+        "colors": ["#CEE7E6", "#BFC0C0", "#648767", "#7DC95E", "#7CDF64"],
+        "images": ["mint-meadow.png", "mint-meadow2.png", "mint-meadow3.png", "mint-meadow4.png"]
+    },
+    
+    {
+        "id": 1,
+        "name": "Twilight Garden",
+        "tags": ["calm", "balanced", "mature", "elegant", "cool-toned", "grounded", "professional"],
+        "hues": ["light green", "green", "gray", "blue", "purple"],
+        "colors": ["#CCF5AC", "#BAD29F", "#808A9F", "#2C497F", "#3D2B56"],
+        "images": ["twilight-garden.png", "twilight-garden2.png", "twilight-garden3.png", "twilight-garden4.png"]
+    },
+
+    {
+        "id": 2,
+        "name": "Candy Skies",
+        "tags": ["playful", "bright", "dreamy", "energetic", "whimsical", "cheerful", "fun"],
+        "hues": ["blue", "purple", "pink", "cyan", "green"],
+        "colors": ["#826AED", "#C879FF", "#FFB7FF", "#3BF4FB", "#CAFF8A"],
+        "images": ["candy-skies.png", "candy-skies2.png", "candy-skies3.png", "candy-skies4.png"]
+    },
+    
+    {
+        "id": 3,
+        "name": "Harvest Earth",
+        "tags": ["warm", "natural", "rustic", "cozy", "organic", "earthy", "inviting"],
+        "hues": ["brown", "green", "yellow-green", "orange", "peach"], 
+        "colors": ["#502419", "#7EA172", "#C7CB85", "#E7A977", "#EBBE9B"],
+        "images": ["harvest-earth.png", "harvest-earth2.png", "harvest-earth3.png", "harvest-earth4.png"]
+    },
+
+    {
+      "id": 4,
+      "name": "Dusty Coast",
+      "tags": [
+        "calm",
+        "muted",
+        "coastal",
+        "relaxed",
+        "vintage",
+        "soft",
+        "balanced"
+      ],
+      "hues": ["blue-green", "green", "green-gray", "gray-blue", "purple"],
+      "colors": ["#82D4BB", "#82C09A", "#82AC9F", "#829298", "#94778B"],
+      "images": ["dusty-coast.png", "dusty-coast2.png", "dusty-coast3.png", "dusty-coast4.png"]
+    },
+
+    {
+        "id": 5,
+        "name": "Industrial Sunrise", 
+        "tags": ["balanced", "modern", "warm-meets-cool", "grounded", "urban", "subtle contrast"],
+        "hues": ["red", "white", "beige", "blue-gray", "teal"],
+        "colors": ["#C03221", "#F7F7FF", "#F2D0A4", "#545E75", "#3F826D"],
+        "images": ["industrial-sunrise.png", "industrial-sunrise2.png", "industrial-sunrise3.png", "industrial-sunrise4.png"]
+    },
+
+    {
+        "id": 6,
+        "name": "Citrus Dusk",
+        "tags": ["fresh", "playful", "balanced", "warm-meets-cool", "inviting", "modern", "energetic"],
+        "hues": ["yellow", "orange", "blue-green", "white", "purple"],
+        "colors": ["#F4D06F", "#FF8811", "#9DD9D2", "#FFF8F0", "#392F5A"],
+        "images": ["citrus-dusk.png", "citrus-dusk2.png", "citrus-dusk3.png", "citrus-dusk4.png"]
+    },
+
+     {
+       "id": 7,
+       "name": "Spring Sorbet",
+       "tags": [
+         "light",
+         "playful",
+         "pastel",
+         "sweet",
+         "soft",
+         "cheerful"
+       ],
+       "hues": ["purple", "yellow","pink", "blue-green", "green-gray"],
+       "colors": ["#B47EB3", "#FDF5BF", "#FFD5FF", "#92D1C3", "#8BB8A8"],
+       "images": ["spring-sorbet.png", "spring-sorbet2.png", "spring-sorbet3.png", "spring-sorbet4.png"]
+     },
+
+     {
+       "id": 8,
+       "name": "Midnight Elegance",
+       "tags": ["dark", "sophisticated", "calm", "professional", "bold"],
+       "hues": ["taupe", "black", "dark blue", "lavender-purple", "light lavender"],
+       "colors": ["#BFACAA", "#02020A", "#05204A", "#B497D6", "#E1E2EF"],
+       "images": ["midnight-elegance.png", "midnight-elegance2.png", "midnight-elegance3.png", "midnight-elegance4.png"]
+     },
+
+     {
+       "id": 9,
+       "name": "Rosewood Charm",
+       "tags": ["warm", "vintage", "earthy", "romantic", "gentle"],
+       "hues": [
+         "brown-gray",
+         "light brown",
+         "beige",
+         "pink",
+         "red"
+       ],
+       "colors": ["#504746", "#B89685", "#BFADA3", "#FBB7C0", "#B6244F"],
+       "images": ["rosewood-charm.png", "rosewood-charm2.png", "rosewood-charm3.png", "rosewood-charm4.png"]
+     },
+
+     {
+       "id": 10,
+       "name": "Ocean Sparks",
+       "tags": ["bright", "fresh", "energetic", "cool", "modern"],
+       "hues": ["blue-gray", "blue", "cyan", "turquoise", "green"],
+       "colors": ["#587291", "#2F97C1", "#1CCAD8", "#15E6CD", "#0CF574"],
+       "images": ["ocean-sparks.png", "ocean-sparks2.png", "ocean-sparks3.png", "ocean-sparks4.png"]
+     },
+
+     {
+       "id": 11,
+       "name": "Forest Fade",
+       "tags": ["dark", "grounded", "natural", "balanced", "calm"],
+       "hues": ["black", "dark green", "green", "light green", "mint green"],
+       "colors": ["#040403", "#5B7553", "#8EB897", "#C3E8BD", "#9DDBAD"],
+       "images": ["forest-fade.png", "forest-fade2.png", "forest-fade3.png", "forest-fade4.png"]
+     },
+
+     {
+       "id": 12,
+       "name": "Golden Horizon",
+       "tags": ["warm", "bright", "uplifting", "playful", "fresh"],
+       "hues": ["yellow", "orange", "cyan", "white", "purple"],
+       "colors": ["#F4D06F", "#FF8811", "#9DD9D2", "#FFF8F0", "#392F5A"],
+       "images": ["golden-horizon.png", "golden-horizon2.png", "golden-horizon3.png", "golden-horizon4.png"]
+     },
+
+     {
+       "id": 13,
+       "name": "Twilight Grove",
+       "tags": ["natural", "grounded", "balanced", "calm", "warm"],
+       "hues": ["red", "white", "beige", "gray", "green"],
+       "colors": ["#C03221", "#F7F7FF", "#F2D0A4", "#545E75", "#3F826D"],
+       "images": ["twilight-grove.png", "twilight-grove2.png", "twilight-grove3.png", "twilight-grove4.png"]
+     },
+
+     {
+       "id": 14,
+       "name": "Retro Bloom",
+       "tags": ["playful", "soft", "fresh", "inviting", "colorful"],
+       "hues": ["pink", "yellow", "green", "blue", "purple"],
+       "colors": ["#FF99C8", "#FCF6BD", "#D0F4DE", "#A9DEF9", "#E4C1F9"],
+       "images": ["retro-bloom.png", "retro-bloom2.png", "retro-bloom3.png", "retro-bloom4.png"]
+     },
+
+     {
+       "id": 15,
+       "name": "Citrus Sky",
+       "tags": ["bright", "clean", "fresh", "uplifting", "soft"],
+       "hues": ["orange", "yellow", "green", "blue", "white"],
+       "colors": ["#FF8811", "#F4D06F", "#9DD9D2", "#A9DEF9", "#F7F7FF"],
+       "images": ["citrus-sky.png", "citrus-sky2.png", "citrus-sky3.png", "citrus-sky4.png"]
+     },
+
+     {
+       "id": 16,
+       "name": "Evening Ember",
+       "tags": ["warm", "grounded", "balanced", "soft", "natural"],
+       "hues": ["red", "beige", "orange", "gray", "brown"],
+       "colors": ["#C8553D", "#E6C79C", "#EFA94A", "#7D8491", "#463F3A"],
+       "images": ["evening-ember.png", "evening-ember2.png", "evening-ember3.png", "evening-ember4.png"]
+     },
+
+     {
+       "id": 17,
+       "name": "Lagoon Whisper",
+       "tags": ["calm", "fresh", "natural", "inviting", "soft"],
+       "hues": ["blue", "teal", "cyan", "beige", "green"],
+       "colors": ["#05668D", "#028090", "#00A896", "#F0F3BD", "#02C39A"],
+       "images": ["lagoon-whisper.png", "lagoon-whisper2.png", "lagoon-whisper3.png", "lagoon-whisper4.png"]
+     },
+
+     {
+       "id": 18,
+       "name": "Rosewood Dusk",
+       "tags": ["grounded", "soft", "natural", "warm", "balanced"],
+       "hues": ["red", "pink", "beige", "brown", "green"],
+       "colors": ["#9D6381", "#F9D8D6", "#FCA17D", "#582630", "#1E2F23"],
+       "images": ["rosewood-dusk.png", "rosewood-dusk2.png", "rosewood-dusk3.png", "rosewood-dusk4.png"]
+     },
+
+     {
+       "id": 19,
+       "name": "Rustic Peach",
+       "tags": ["warm", "soft", "natural", "grounded", "inviting"],
+       "hues": ["brown", "pink", "beige", "orange", "peach"],
+       "colors": ["#63474D", "#AA767C", "#D6A184", "#FFA686", "#FEC196"],
+       "images": ["rustic-peach.png", "rustic-peach2.png", "rustic-peach3.png", "rustic-peach4.png"]
+     }
+]
