@@ -1,6 +1,6 @@
 import { useParams, Link } from "react-router-dom";
 import palettes from "../../assets/data/palettes.json";
-import styles from "./DetailPage.module.css";
+import styles from "./detailPage.module.css";
 
 export default function DetailPage() {
   const { id } = useParams(); // Henter id fra url'en
